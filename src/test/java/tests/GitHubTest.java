@@ -18,7 +18,7 @@ import static org.openqa.selenium.By.linkText;
     @Feature("Проверка Issue")
     @Story("Issue")
     @Owner("milyukov")
-    @Link(value = "Testing", url = "https://github.com/")
+    @Link(value = "Testing", url = "https://github.com/Milson-PS/QaGuruAllure")
 
 
             public class GitHubTest extends BaseTest{
